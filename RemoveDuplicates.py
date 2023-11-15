@@ -1,6 +1,8 @@
 '''
+
 The purpose of this is to compare 2 .csv files and delete duplicate text entries.
 I made this to compare Google Keep and iCloud notes and then import them into DayOne.
+
 '''
 
 import csv
